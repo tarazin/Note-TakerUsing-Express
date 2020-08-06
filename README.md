@@ -24,3 +24,8 @@ The following gif file and video link demonstrate the application's functionalit
 
 ![Git](https://github.com/tarazin/Note-TakerUsing-Express/blob/master/Note%20Taker.gif) 
 [Video Link](https://drive.google.com/file/d/1UPO0tIGjLgQYih8DaPmMP67qKQN9FZnc/view?usp=sharing)
+
+## Deployed App
+
+- [Heroku App](https://still-sierra-46642.herokuapp.com/)
+- [Project Repo](https://github.com/tarazin/Note-TakerUsing-Express)
